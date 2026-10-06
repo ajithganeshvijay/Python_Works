@@ -1,0 +1,21 @@
+#int type
+num=12
+#float
+n=12.34
+#complex
+c=10+5j
+#string
+name='Ajith'
+#list
+l=[1,2,3,4]
+#tuple
+t=(1,2,3,4)
+#set
+s={10,20,30,40,50}
+#dictionary
+d={'name':'Ajith','age':26,'place':'ktm'}
+print(d)
+print(d['name'])
+print(d.values())
+d['gender']='male'
+print(d)
